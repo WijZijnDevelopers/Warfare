@@ -1,0 +1,9 @@
+main: me.yoda.warfare.main
+version: 1.0
+name: parkourstats
+
+commands:
+    showstats:
+        description: laat je parkour stats zien
+    hidestats:
+        description: verbergt parkour stats
